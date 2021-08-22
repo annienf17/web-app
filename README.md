@@ -32,5 +32,5 @@ OR you can click [here!](https://annienf17.github.io/web-app)
 
 ## What I would have added if I have more time
 
-- [ ] Nav bar
-- [ ] Image carousel
+- [x] Nav bar
+- [x] Image carousel
